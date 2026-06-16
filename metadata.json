@@ -1,0 +1,6 @@
+{
+  "name": "Slither Firebase",
+  "description": "A real-time multiplayer Slither.io game featuring Google Firebase authentication, cloud save of snakes/stats, achievements, custom skins, interactive maps, and a global leaderboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
